@@ -13,3 +13,5 @@ Alterei o arquivo no Windows
 Alterei no GitHub pelo Windows
 
 Consertei os arquivos alterados e vou subir para o GitHub
+
+Alteração para treino de GIT
